@@ -1,0 +1,13 @@
+{
+  "name": "dsa400-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DSA·400 consistency tracker — immutable append-only ledger backend (zero dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
