@@ -1,0 +1,8 @@
+# the ledger belongs to the SERVER, never to git
+progress-log.jsonl
+state.json
+*.tmp
+
+# node (none needed — zero deps)
+node_modules/
+package-lock.json
